@@ -168,7 +168,3 @@ curl -X POST "http://localhost:8080/api/bids" \
 curl -H "X-INTERNAL-KEY: super-secret-internal-token" \
      "http://localhost:8080/api/internal/lowest-unique-bid"
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
